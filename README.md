@@ -1,3 +1,5 @@
+Simple description of the code:
+
 1) Addition: add input signals (any number) and display the resulting signal.
 2) Subtraction: subtract input signals and display the resulting signal.
 3) Multiplication: multiply a signal by a constant value to amplify or reduce the signal amplitude. (If constant equals -1, then signal will be inverted)
